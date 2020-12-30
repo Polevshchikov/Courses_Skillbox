@@ -15,6 +15,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0-nullsafety.3"
+  carousel_slider:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "66e25d3f039ac2eb569519ac7f39cdc5be1c7b0a"
+      url: "https://github.com/serenader2014/flutter_carousel_slider"
+    source: git
+    version: "2.3.1"
   characters:
     dependency: transitive
     description:
@@ -130,6 +139,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0"
+  shimmer:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: e1ebf3e64f106552f99516b3a5990420779cf29d
+      url: "https://github.com/hnvn/flutter_shimmer"
+    source: git
+    version: "1.1.2"
   sky_engine:
     dependency: transitive
     description: flutter
